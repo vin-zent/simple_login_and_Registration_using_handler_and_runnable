@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">simple_login</string>
+    <string name="logname">Login To Fox</string>
+    <string name="usrhint">Username/E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Don\'t have an account?</string>
+    <string name="forget">Forgot Password?</string>
+    <string name="create"> Create Account</string>
+    <string name="fullname">FULL NAME</string>
+    <string name="email">E-MAIL</string>
+    <string name="conpass">CONFIRM PASSWORD</string>
+
+
+    <string name="createacc">CREATE ACCOUNT</string>
+
+
+</resources>
